@@ -28,4 +28,6 @@ Aplicación de escritorio en C# Windows Forms (`FrmPedidos`) para registrar pedi
 - Resultados en formato `RD$ 0.00` para subtotal, descuento, empaque, ITBIS y total a pagar.
 - Mensajes de aviso o confirmación en pantalla.
 
-## Captura de pantalla del programa en ejecución
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/af60ad8f-9e9a-4ce6-85ed-400cc50e7038" />
+
+
